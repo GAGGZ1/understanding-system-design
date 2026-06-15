@@ -1,3 +1,6 @@
+# README.md — Understanding System Design
+
+```markdown
 # Understanding System Design
 
 A beginner-friendly repository to learn and understand System Design concepts from fundamentals to advanced distributed systems.
@@ -100,3 +103,92 @@ Whether you're preparing for software engineering interviews or want to learn ho
 ---
 
 ## 🗂 Repository Structure
+
+```
+
+understanding-system-design/
+│
+├── fundamentals/
+├── networking/
+├── databases/
+├── caching/
+├── distributed-systems/
+├── storage/
+├── microservices/
+├── security/
+├── monitoring/
+├── case-studies/
+├── diagrams/
+└── resources/
+
+```
+
+---
+
+## 🚀 Learning Roadmap
+
+1. Fundamentals
+2. Networking
+3. Databases
+4. Caching
+5. Load Balancing
+6. Distributed Systems
+7. Microservices
+8. Security
+9. Monitoring
+10. Case Studies
+
+---
+
+## 📝 Example System Design Questions
+
+- Design TinyURL
+- Design WhatsApp
+- Design YouTube
+- Design Instagram Feed
+- Design Uber
+- Design Netflix
+- Design Chat Application
+- Design Notification Service
+- Design Distributed Cache
+
+---
+
+## 🛠 Recommended Resources
+
+### Books
+- Designing Data-Intensive Applications
+- System Design Interview Vol. 1
+- System Design Interview Vol. 2
+
+### YouTube Channels
+- Gaurav Sen
+- Hussein Nasser
+- ByteByteGo
+- Tech Dummies
+
+### Websites
+- GeeksforGeeks
+- High Scalability
+- ByteByteGo Blog
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome.
+
+1. Fork the repository
+2. Create a new branch
+3. Add improvements
+4. Submit a Pull Request
+
+---
+
+## ⭐ Support
+
+If this repository helps you learn System Design, consider giving it a star.
+
+Happy Learning!
+```
+
