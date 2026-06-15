@@ -1,6 +1,4 @@
-# README.md — Understanding System Design
 
-```markdown
 # Understanding System Design
 
 A beginner-friendly repository to learn and understand System Design concepts from fundamentals to advanced distributed systems.
